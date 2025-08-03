@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /dist/
+
+# Allow important pages
+Allow: /emergencies
+Allow: /contacts
+Allow: /phrases
+Allow: /foods
+Allow: /dynamic
+Allow: /storage
+
+# Crawl delay (optional)
+Crawl-delay: 1 

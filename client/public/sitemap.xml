@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://yourdomain.com</loc>
+    <lastmod>2025-08-03T09:40:57.989Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/emergencies</loc>
+    <lastmod>2025-08-03T09:40:57.990Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/contacts</loc>
+    <lastmod>2025-08-03T09:40:57.990Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/phrases</loc>
+    <lastmod>2025-08-03T09:40:57.990Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/foods</loc>
+    <lastmod>2025-08-03T09:40:57.990Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/dynamic</loc>
+    <lastmod>2025-08-03T09:40:57.990Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/storage</loc>
+    <lastmod>2025-08-03T09:40:57.990Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

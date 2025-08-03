@@ -1,0 +1,37 @@
+name: Lighthouse CI
+on: [push, pull_request]
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: client/package-lock.json
+          
+      - name: Install dependencies
+        run: |
+          cd client
+          npm ci
+          
+      - name: Build application
+        run: |
+          cd client
+          npm run build
+          
+      - name: Start application
+        run: |
+          cd client
+          npm run preview &
+          sleep 10
+          
+      - name: Run Lighthouse CI
+        run: |
+          cd client
+          npm install -g @lhci/cli@0.12.x
+          lhci autorun 

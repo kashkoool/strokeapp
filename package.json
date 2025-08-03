@@ -1,0 +1,28 @@
+{
+  "name": "strokeapp",
+  "version": "1.0.0",
+  "description": "Stroke Communication App - Emergency assistance tool for stroke patients",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm install && npm run build",
+    "preview": "cd client && npm run preview",
+    "install-deps": "cd client && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kashkoool/strokeapp.git"
+  },
+  "keywords": [
+    "stroke",
+    "medical",
+    "communication",
+    "emergency",
+    "accessibility",
+    "pwa",
+    "react",
+    "vite"
+  ],
+  "author": "kashkoool",
+  "license": "MIT"
+} 

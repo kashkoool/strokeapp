@@ -1,0 +1,168 @@
+{
+    "body_parts": [
+      {
+        "name": "Head",
+        "icon": "🧠",
+        "description": "Brain, skull, and head sensations",
+        "bodyPartImage": "/image/bodyparts/head.png",
+        "symptoms": [
+          { "type": "Headache", "icon": "😣", "description": "Pain in the head area", "symptomImage": "/image/bodyparts/headSymptoms/Headache.png" },
+          { "type": "Migraine", "icon": "⚡", "description": "Throbbing pain with light/sound sensitivity", "symptomImage": "/image/bodyparts/headSymptoms/Migraine.png" },
+          { "type": "Dizziness", "icon": "🔄", "description": "Feeling off balance or lightheaded", "symptomImage": "/image/bodyparts/headSymptoms/Dizziness.png" },
+          { "type": "Tinnitus", "icon": "🔔", "description": "Ringing in ears", "symptomImage": "/image/bodyparts/headSymptoms/Tinnitus.png" },
+          { "type": "Pressure in Head", "icon": "🎈", "description": "Fullness or pressure inside skull", "symptomImage": "/image/bodyparts/headSymptoms/Pressure in Head.jpg" },
+          { "type": "Forgetfulness", "icon": "💭❓", "description": "Memory or thinking problems", "symptomImage": "/image/bodyparts/headSymptoms/Forgetfulness-removebg-preview.png" },
+          { "type": "Confusion", "icon": "🤯", "description": "Can't think clearly or disoriented", "symptomImage": "/image/bodyparts/headSymptoms/Confusion-removebg-preview.png" },
+          { "type": "Speech Trouble", "icon": "🔇🗣️", "description": "Can't speak or find words", "symptomImage": "/image/bodyparts/headSymptoms/Speech Trouble.jpg" },
+          { "type": "Blurred Vision", "icon": "👁️‍🗨️", "description": "Vision not sharp or clear","symptomImage": "/image/bodyparts/headSymptoms/Blurred Vision.png" }
+        ]
+      },
+      {
+        "name": "Eyes",
+        "icon": "👁️",
+        "description": "Vision and eye movement",
+        "bodyPartImage": "/image/bodyparts/eye.png",
+        "symptoms": [
+          { "type": "Eye Pain",        "icon": "😵‍💫", "description": "Discomfort in one or both eyes", "symptomImage": "/image/bodyparts/eyesSymptoms/Eye Pain.jpeg" },
+          { "type": "Dry Eyes",        "icon": "🌵", "description": "Eyes feel dry or itchy", "symptomImage": "/image/bodyparts/eyesSymptoms/Dry Eyes.jpg" },
+          { "type": "Redness",         "icon": "🔴", "description": "Red or irritated eyes", "symptomImage": "/image/bodyparts/eyesSymptoms/Redness.jpeg" },
+          { "type": "Light Sensitivity","icon": "💡", "description": "Pain or discomfort in bright light", "symptomImage": "/image/bodyparts/eyesSymptoms/Light Sensitivity.jpeg" }
+        ]
+      },
+      {
+        "name": "Ears",
+        "icon": "👂",
+        "description": "Hearing and balance",
+        "bodyPartImage": "/image/bodyparts/ears.png",
+        "symptoms": [
+          { "type": "Ear Pain",     "icon": "🛠️", "description": "Ache or sharp pain in ear", "symptomImage": "/image/bodyparts/earsSymptoms/Ear Pain.jpeg" },
+          { "type": "Hearing Loss", "icon": "🔇", "description": "Partial or full inability to hear", "symptomImage": "/image/bodyparts/earsSymptoms/Hearing Loss.jpeg" },
+          { "type": "Ear Pressure", "icon": "🧯", "description": "Fullness or blocked sensation in ears", "symptomImage": "/image/bodyparts/earsSymptoms/Ear Pressure.jpg" }
+        ]
+      },
+      {
+        "name": "Throat",
+        "icon": "🗣️",
+        "description": "Speech and swallowing",
+        "bodyPartImage": "/image/bodyparts/Throat.png",
+        "symptoms": [
+          { "type": "Sore Throat",         "icon": "😫", "description": "Pain or irritation in throat", "symptomImage": "/image/bodyparts/throatSymptoms/Sore Throat.jpeg" },
+          { "type": "Swallowing Difficulty","icon": "🍽️🚫", "description": "Hard to swallow food or drink", "symptomImage": "/image/bodyparts/throatSymptoms/Swallowing Difficulty.jpg" },
+          { "type": "Hoarseness",          "icon": "🎙️", "description": "Raspy or weak voice", "symptomImage": "/image/bodyparts/throatSymptoms/Hoarseness.png" },
+          { "type": "Lump in Throat",      "icon": "🪨", "description": "Feeling like something is stuck", "symptomImage": "/image/bodyparts/throatSymptoms/Lump in Throat.jpeg" }
+        ]
+      },
+      {
+        "name": "Chest",
+        "icon": "❤️",
+        "description": "Heart and lung area",
+        "bodyPartImage": "/image/bodyparts/chest.png",
+        "symptoms": [
+          { "type": "Chest Pain",       "icon": "💥", "description": "Shooting or pressing pain", "symptomImage": "/image/bodyparts/chestSymptoms/Chest Pain.jpeg" },
+          { "type": "Tightness",        "icon": "🧱", "description": "Crushing or pressure feeling", "symptomImage": "/image/bodyparts/chestSymptoms/Tightness.jpeg" },
+          { "type": "Palpitations",     "icon": "💓", "description": "Fast or irregular heartbeat", "symptomImage": "/image/bodyparts/chestSymptoms/Palpitations.jpeg" },
+          { "type": "Shortness of Breath","icon": "😮‍💨", "description": "Hard to breathe or catching breath", "symptomImage": "/image/bodyparts/chestSymptoms/Shortness of Breath.jpeg" },
+          { "type": "Shallow Breathing", "icon": "📉", "description": "Breathing not deep", "symptomImage": "/image/bodyparts/chestSymptoms/Shallow Breathing.jpeg" },
+          { "type": "Cough",            "icon": "🤧", "description": "Persistent dry or wet cough", "symptomImage": "/image/bodyparts/chestSymptoms/Cough.png" }
+        ]
+      },
+      {
+        "name": "Stomach / Abdomen",
+        "icon": "🍽️",
+        "description": "Digestive organs and belly area",
+        "bodyPartImage": "/image/bodyparts/stomach.png",
+        "symptoms": [
+          { "type": "Stomach Ache",    "icon": "🤢", "description": "General discomfort in stomach area", "symptomImage": "/image/bodyparts/stomachSymptoms/Stomach Ache.jpeg" },
+          { "type": "Nausea",          "icon": "🤮", "description": "Feeling like vomiting", "symptomImage": "/image/bodyparts/stomachSymptoms/Nausea.jpeg" },
+          { "type": "Vomiting",        "icon": "🫗", "description": "Throwing up", "symptomImage": "/image/bodyparts/stomachSymptoms/Vomiting.jpeg" },
+          { "type": "Diarrhea",        "icon": "💩", "description": "Loose bowel movement", "symptomImage": "/image/bodyparts/stomachSymptoms/Diarrhea.jpeg" },
+          { "type": "Constipation",    "icon": "🚫💩", "description": "Hard to poop", "symptomImage": "/image/bodyparts/stomachSymptoms/Constipation.jpeg" },
+          { "type": "Gas / Bloating",  "icon": "🎈", "description": "Feeling full and tight", "symptomImage": "/image/bodyparts/stomachSymptoms/GasBloating.jpeg" },
+          { "type": "Cramps",          "icon": "➰", "description": "Sharp stomach muscle pain", "symptomImage": "/image/bodyparts/stomachSymptoms/Cramps.jpeg" },
+          { "type": "Heartburn",       "icon": "🔥", "description": "Burning in chest or throat after eating", "symptomImage": "/image/bodyparts/stomachSymptoms/Heartburn.jpeg" },
+          { "type": "Loss of Appetite","icon": "🍽️❌", "description": "Not hungry at all", "symptomImage": "/image/bodyparts/stomachSymptoms/Loss of Appetite.jpeg" }
+        ]
+      },
+      {
+        "name": "Back",
+        "icon": "🔙",
+        "description": "Spine and muscles",
+        "bodyPartImage": "/image/bodyparts/back.png",
+        "symptoms": [
+          { "type": "Lower Back Pain", "icon": "📉", "description": "Pain below waist", "symptomImage": "/image/bodyparts/backSymptoms/Lower Back Pain.png" },
+          { "type": "Upper Back Pain", "icon": "📈", "description": "Pain near shoulders", "symptomImage": "/image/bodyparts/backSymptoms/Upper Back Pain.jpg" },
+          { "type": "Spine Pain",      "icon": "🦴", "description": "Vertebrae or nerve pain", "symptomImage": "/image/bodyparts/backSymptoms/Spine Pain.jpg" },
+          { "type": "Muscle Tightness","icon": "🧊", "description": "Back feels stiff or hard", "symptomImage": "/image/bodyparts/backSymptoms/Muscle Tightness.jpg" },
+          { "type": "Nerve Pain",      "icon": "🌩️", "description": "Burning or shooting pain", "symptomImage": "/image/bodyparts/backSymptoms/Nerve Pain.jpg" },
+          { "type": "Muscle Stiffness","icon": "🧊", "description": "Tight or hard back muscles", "symptomImage": "/image/bodyparts/backSymptoms/Muscle Stiffness.jpg" }
+        ]
+      },
+      {
+        "name": "Arms / Hands",
+        "icon": "🫱",
+        "description": "From shoulders to fingers",
+        "bodyPartImage": "/image/bodyparts/ArmsHands.png",
+        "symptoms": [
+          { "type": "Shoulder Pain",   "icon": "🎯", "description": "Pain when moving arm or shoulder", "symptomImage": "/image/bodyparts/armshandsSymptoms/Shoulder Pain.jpeg" },
+          { "type": "Elbow Pain",      "icon": "🔧", "description": "Sharp pain in elbow joint", "symptomImage": "/image/bodyparts/armshandsSymptoms/Elbow Pain.jpeg" },
+          { "type": "Wrist Pain",      "icon": "⌚", "description": "Discomfort when rotating wrist", "symptomImage": "/image/bodyparts/armshandsSymptoms/Wrist Pain.jpeg" },
+          { "type": "Numbness",        "icon": "🧤", "description": "No feeling in hand or fingers", "symptomImage": "/image/bodyparts/armshandsSymptoms/Numbness.jpeg" },
+          { "type": "Tingling",        "icon": "✨", "description": "Pins and needles", "symptomImage": "/image/bodyparts/armshandsSymptoms/Tingling.jpeg" },
+          { "type": "Arm Pain",        "icon": "💪❌", "description": "Hurts to move or lift", "symptomImage": "/image/bodyparts/armshandsSymptoms/Arm Pain.jpeg" },
+          { "type": "Weakness",        "icon": "✊🚫", "description": "Can't hold things firmly", "symptomImage": "/image/bodyparts/armshandsSymptoms/Weakness.jpeg" },
+          { "type": "Weak Grip",       "icon": "✊🚫", "description": "Unable to hold things firmly", "symptomImage": "/image/bodyparts/armshandsSymptoms/Weak Grip.jpeg" },
+          { "type": "Shaking/Tremors", "icon": "🤲", "description": "Hands or arms shaking", "symptomImage": "/image/bodyparts/armshandsSymptoms/ShakingTremors.jpeg" },
+          { "type": "Paralysis - Left","icon": "🫲❌", "description": "Can't move left arm", "symptomImage": "/image/bodyparts/armshandsSymptoms/Paralysis - Left.jpg" },
+          { "type": "Paralysis - Right","icon": "🫱❌", "description": "Can't move right arm", "symptomImage": "/image/bodyparts/armshandsSymptoms/Paralysis - Right.jpg" }
+        ]
+      },
+      {
+        "name": "Legs / Feet",
+        "icon": "🦵",
+        "description": "From hips to toes",
+        "bodyPartImage": "/image/bodyparts/LegsFeet.png",
+        "symptoms": [
+          { "type": "Hip Pain",        "icon": "🚶", "description": "Discomfort walking or sitting", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Hip Pain.jpeg" },
+          { "type": "Knee Pain",       "icon": "🎱", "description": "Hurts to bend or walk", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Knee Pain.jpeg" },
+          { "type": "Ankle Pain",      "icon": "⚙️", "description": "Pain turning foot or walking", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Ankle Pain.jpeg" },
+          { "type": "Leg Cramps",      "icon": "⛓️", "description": "Sudden tightness or tight muscles", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Leg Cramps.jpeg" },
+          { "type": "Numbness",        "icon": "🧊", "description": "Legs feel nothing", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Numbness.jpeg" },
+          { "type": "Tingling",        "icon": "🌩️", "description": "Electric or pins-and-needles feeling", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Tingling.jpeg" },
+          { "type": "Swelling",        "icon": "🫧", "description": "Puffy or enlarged leg/foot", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Swelling.jpeg" },
+          { "type": "Paralysis - Left Leg","icon": "🦵❌", "description": "Can't move left leg", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Paralysis - Left Leg.png" },
+          { "type": "Paralysis - Right Leg","icon": "🦿❌", "description": "Can't move right leg", "symptomImage": "/image/bodyparts/legsfeetSymptoms/Paralysis - Right Leg.png" }
+        ]
+      },
+      {
+        "name": "Skin",
+        "icon": "🧴",
+        "description": "External conditions and signs of illness",
+        "bodyPartImage": "/image/bodyparts/skin.jpg",
+        "symptoms": [
+          { "type": "Rash",        "icon": "🟥", "description": "Itchy or red spots", "symptomImage": "/image/bodyparts/skinSymptoms/Rash.jpeg" },
+          { "type": "Itching",     "icon": "🐜", "description": "Persistent need to scratch", "symptomImage": "/image/bodyparts/skinSymptoms/Itching.jpeg" },
+          { "type": "Sweating",    "icon": "💦", "description": "Sweating a lot", "symptomImage": "/image/bodyparts/skinSymptoms/Sweating.jpeg" },
+          { "type": "Cold Sweats", "icon": "🥶", "description": "Sweating but feel cold", "symptomImage": "/image/bodyparts/skinSymptoms/Cold Sweats.jpeg" },
+          { "type": "Dry Skin",    "icon": "🌵", "description": "Skin feels cracked or rough", "symptomImage": "/image/bodyparts/skinSymptoms/Dry Skin.jpeg" },
+          { "type": "Pale Skin",   "icon": "⬜", "description": "Skin lost color", "symptomImage": "/image/bodyparts/skinSymptoms/Pale Skin.jpeg" }
+        ]
+      },
+      {
+        "name": "Whole Body / Feelings",
+        "icon": "🧍",
+        "description": "General or unclear symptoms",
+        "bodyPartImage": "/image/bodyparts/WholeBodyFeelings.png",
+        "symptoms": [
+          { "type": "Fever",         "icon": "🌡️", "description": "Body is too hot", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Fever.jpeg" },
+          { "type": "Chills",        "icon": "❄️", "description": "Body is shivering", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Chills.jpeg" },
+          { "type": "Fatigue",       "icon": "😴", "description": "Too tired to move", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Fatigue.jpeg" },
+          { "type": "Body Aches",    "icon": "🤕", "description": "All-over pain", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Body Aches.jpg" },
+          { "type": "Restlessness",  "icon": "🌀", "description": "Can't stay still or calm", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Restlessness.jpeg" },
+          { "type": "Fear / Panic",  "icon": "😨", "description": "Scared or anxious", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/FearPanic.jpeg" },
+          { "type": "Drowsy",        "icon": "💤", "description": "Can't stay awake", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Drowsy.jpeg" },
+          { "type": "Unconsciousness","icon": "😵", "description": "Passed out or fainted", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Unconsciousness.jpeg" },
+          { "type": "Needs Help",    "icon": "🆘", "description": "Something is wrong, needs attention", "symptomImage": "/image/bodyparts/wholebodyfeelingsSymptoms/Needs Help.png" }
+        ]
+      }
+    ]
+  }
